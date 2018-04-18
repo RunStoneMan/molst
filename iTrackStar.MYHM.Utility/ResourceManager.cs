@@ -9,12 +9,7 @@ using System.Configuration;
 
 namespace iTrackStar.MYHM.Utility
 {
-    /// <summary>
-    /// 功能描述：资源管理类 用于读取相应语言的资源文本
-    /// 创建标识：汪桂洋 2012-02-02
-    /// 修改标识：
-    /// 修改描述：
-    /// </summary>
+
     public class ResourceManager
     {
         /// <summary>
