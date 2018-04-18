@@ -7,12 +7,7 @@ using System.Collections;
 
 namespace iTrackStar.MYHM.Utility
 {
-    /// <summary>
-    /// 功能描述：XML操作管理类
-    /// 创建标识：刘宇国 2012-02-13
-    /// 修改标识：
-    /// 修改描述：
-    /// </summary>
+   
     public class XmlHandler
     {
         /// <summary>
