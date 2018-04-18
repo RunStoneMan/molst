@@ -6,12 +6,7 @@ using System.Web.Caching;
 
 namespace iTrackStar.MYHM.Utility
 {
-    /// <summary>
-    /// 功能描述：缓存管理
-    /// 创建标识：汪桂洋 2012-02-02
-    /// 修改标识：
-    /// 修改描述：
-    /// </summary>
+    
     public class CustomCache
     {
         private CustomCache() { }
