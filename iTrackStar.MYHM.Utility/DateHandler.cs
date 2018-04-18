@@ -6,12 +6,7 @@ using System.Collections;
 
 namespace iTrackStar.MYHM.Utility
 {
-    /// <summary>
-    /// 创建标识：宫琪 2012-03-20
-    /// 功能描述：处理时间计算类
-    /// 修改标识：
-    /// 修改描述：
-    /// </summary>
+
     public class DateHandler
     {
         /// <summary>日期元素转换DateTime
