@@ -16,12 +16,6 @@ using iTextSharp.text.html.simpleparser;
 
 namespace iTrackStar.MYHM.Utility
 {
-    /// <summary>
-    /// 功能描述：导出功能类
-    /// 创建标识：汪桂洋 2012-02-08
-    /// 修改标识：
-    /// 修改描述：
-    /// </summary>
     public class Export
     {
         #region 将HTML导出到PDF
