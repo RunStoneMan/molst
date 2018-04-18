@@ -9,12 +9,6 @@ using System.Collections;
 
 namespace iTrackStar.MYHM.Utility
 {
-    /// <summary>
-    /// 功能描述：XML配置文件读取（目前为打印控件配置文件服务）
-    /// 创建标识：汪桂洋 2012-02-07
-    /// 修改标识：
-    /// 修改描述：
-    /// </summary>
     public class RuleSelector
     {
         private static XmlDocument Xd;
