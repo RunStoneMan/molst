@@ -11,12 +11,7 @@ using System.Data.OleDb;
 
 namespace iTrackStar.MYHM.Utility
 {
-    /// <summary>
-    /// 功能描述：Excel处理类
-    /// 创建标识：田兴超 2012-02-10
-    /// 修改标识：修改CSV格式处理类
-    /// 修改描述：顾丽
-    /// </summary>
+ 
     public class ExcelHandler
     {
 
