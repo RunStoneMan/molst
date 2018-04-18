@@ -6,12 +6,7 @@ using System.Configuration;
 
 namespace iTrackStar.MYHM.Utility
 {
-    /// <summary>
-    /// 功能描述：获取配置文件的值
-    /// 创建标识：余帝海 2012-06-27
-    /// 修改标识：
-    /// 修改描述：
-    /// </summary>
+
     public class ConfigHelper
     {
 
